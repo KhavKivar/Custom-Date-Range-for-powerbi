@@ -1,0 +1,26 @@
+{
+    "visual": {
+        "name": "Calendar",
+        "displayName": "Methanex Calendar",
+        "guid": "calendarblizC41067D025DF46B28D497705D8C4301B",
+        "visualClassName": "Visual",
+        "version": "1.0.0.0",
+        "description": "A custom date range selection visual for Power BI",
+        "supportUrl": "https://github.com",
+        "gitHubUrl": "https://github.com"
+    },
+    "apiVersion": "5.3.0",
+    "author": {
+        "name": "scalderon",
+        "email": "sebastian.calderon@sansano.usm.cl"
+    },
+    "assets": {
+        "icon": "assets/icons8-calendar-20.png"
+    },
+    "externalJS": null,
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json",
+    "dependencies": null,
+    "stringResources": [],
+    "version": "1.0.0.0"
+}
